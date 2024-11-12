@@ -1,4 +1,4 @@
-
+![logo](https://github.com/priyanshu-afk1/priyanshu-afk1/blob/main/github-banner.gif)
 <h1 align="center">Hi 👋, I'm Priyanshu Gautam</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
